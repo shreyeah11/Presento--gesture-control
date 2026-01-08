@@ -92,11 +92,6 @@ python main.py
 
 ---
 
-## 🏆 Achievements
-
-- Awarded **2nd Prize and Copyright** for *Presento* as part of a first-year Project-Based Learning (PBL) program  
-
----
 
 ## ✨ Future Enhancements
 
@@ -104,5 +99,6 @@ python main.py
 - Improve gesture accuracy in low-light conditions  
 - Integrate voice feedback  
 - Extend support to additional media players  
+
 
 
