@@ -41,6 +41,17 @@ The project focuses on creating a **hands-free, natural interaction experience**
 - **NumPy** — Numerical computations  
 
 ---
+---
+
+## 📸 Screenshot
+
+[![DuckDuckGo Clone Homepage](screenshot5.jpeg)](screenshot5.jpeg)
+[![](screenshot6.jpeg)](screenshot6.jpeg)
+*Click the screenshot to view full size.*
+
+
+
+---
 
 ## 📂 Folder Structure
 
@@ -99,6 +110,7 @@ python main.py
 - Improve gesture accuracy in low-light conditions  
 - Integrate voice feedback  
 - Extend support to additional media players  
+
 
 
 
